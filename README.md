@@ -1,4 +1,5 @@
-# Repositorio de Entregables — Convocatoria de Datasets e IA
+# Repositorio de Entregables — Convocatoria Interna para el Diseño y Publicación de Conjunto de Datos con Potencial de
+Explotación en Inteligencia Artificial 2025- 2026. Ejecución 2026
 
 Este repositorio centraliza los productos de los proyectos aprobados en la convocatoria de curaduría/publicación de datasets, conforme a los Anexos 1 a 4 de los términos de referencia.
 
